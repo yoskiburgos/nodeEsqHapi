@@ -1,6 +1,6 @@
 "use strict";
 
-const dataClient = require( "../data" );
+const dataClient = require( "../dataAccess/config" );
 
 module.exports = {
    name: "sql",
